@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://https://it-is-sai.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/IT-is-Sai-orange?style=plastic&logo=Tistory&logoColor=#000000"/></a>
+<a href="http://https://it-is-sai.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=plastic&logo=Tistory&logoColor=black"/></a>
 
 ✨ Tech stacks ✨
