@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱Blog🌱
 <a href="http://https://it-is-sai.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&logoColor=white">
+  <img src="https://img.shields.io/badge/ITisSai-black?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
 
