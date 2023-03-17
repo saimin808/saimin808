@@ -1,4 +1,4 @@
-### Hi there 👋
+### IT is Sai
 
 <!--
 **saimin808/saimin808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="http://https://it-is-sai.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/IT-is-Sai-orange?style=plastic&logo=Tistory&logoColor=#000000"/></a>
+
+✨ Tech stacks ✨
