@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="http://https://it-is-sai.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=black">
+</a>
 
-<a href="http://https://it-is-sai.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=plastic&logo=Tistory&logoColor=black"/></a>
 
 ✨ Tech stacks ✨
