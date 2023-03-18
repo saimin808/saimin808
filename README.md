@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ✨ Tech stacks ✨
 
 
-<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white">
