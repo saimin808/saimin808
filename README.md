@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   # Hi I am Sai
   
-  IT에 점점 흥미를 가지고 있는 Sai입니다.
+  IT에 점점 흥미를 가지고 성장하고 있는 Sai입니다.
 
   ✨ Back-end Stacks ✨
   
