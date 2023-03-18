@@ -1,8 +1,11 @@
-<a href="http://https://it-is-sai.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://it-is-sai.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-<a href="http://https://it-is-sai.tistory.com/" target="_blank">
+<a href="mailto:minbongpark@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/minbongpark@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/donb._.sai/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <!--
