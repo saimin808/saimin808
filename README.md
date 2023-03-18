@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex;
+<div style="width: 100%;
+            display: flex;
     justify-content: center;
     align-content: center;">
   <a href="https://it-is-sai.tistory.com/" target="_blank">
