@@ -4,7 +4,7 @@
 <a href="mailto:minbongpark@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/minbongpark@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
-<a href="https://www.instagram.com/donb.	_.sai/" target="_blank">
+<a href="https://www.instagram.com/donb.\_\.sai/" target="_blank">
   <img src="https://img.shields.io/badge/donb.&#95;.sai-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
