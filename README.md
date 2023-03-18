@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex; justify-content:center;">
+<div style="display: flex;
+    justify-content: center;
+    align-content: center;">
   <a href="https://it-is-sai.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
