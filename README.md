@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/minbongpark@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 <a href="https://www.instagram.com/donb._.sai/" target="_blank">
-  <img src="https://img.shields.io/badge/donb._.sai-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/donb./_/.sai-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <!--
