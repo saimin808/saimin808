@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ✨ Tech stacks ✨
 
 <br>
+
 - Language
 <div>
  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white">
