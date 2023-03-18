@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ✨ Tech stacks ✨
 
 
-<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=black">
