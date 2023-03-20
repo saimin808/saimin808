@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=Twitter&logoColor=white">
   </div>
   
   ✨ Front-end Stacks ✨
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-    <img src="https://img.shields.io/badge/MyBatis-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
   </div>
   
   ✨ Database ✨
