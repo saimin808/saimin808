@@ -16,6 +16,9 @@ Here are some ideas to get you started:
   <a href="https://it-is-sai.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
+  <a href="https://velog.io/@minsai9" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </a>
   <a href="mailto:minbongpark@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/minbongpark@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
