@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://velog.io/@minsai9" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+    <img src="https://img.shields.io/badge/Sai-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
   <a href="mailto:minbongpark@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/minbongpark@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white">
